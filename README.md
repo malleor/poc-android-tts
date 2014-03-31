@@ -1,0 +1,1 @@
+What I'm going to do here is to test [Android's Text-To-Speech](http://developer.android.com/reference/android/speech/tts/TextToSpeech.html) capability. Period.
