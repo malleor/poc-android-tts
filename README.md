@@ -16,3 +16,5 @@ I used Android Studio with no mods nor special options.
 2. Type a text in English.
 3. Click the button.
 4. Listen to a US bot.
+
+![Snapshot](https://raw.githubusercontent.com/malleor/poc-android-tts/master/snapshot.png)
